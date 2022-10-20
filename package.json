@@ -1,0 +1,24 @@
+{
+    "name": "wabetainfo",
+    "version": "1.0.0",
+    "description": "This is an unofficial scrape of wabetainfo.com and all post credit goes to @wabetainfo.",
+    "keywords": ["wabetainfo", "whatsapp", "beta", "updates"],
+    "main": "wabetainfo.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/BlackAmda/WABetaInfo.git"
+    },
+    "author": "BlackAmda",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "axios": "^0.27.2",
+        "cheerio": "^1.0.0-rc.12"
+    },
+    "homepage": "https://github.com/BlackAmda/WABetaInfo#readme",
+    "bugs": {
+        "url": "https://github.com/BlackAmda/WABetaInfo/issues"
+    }
+}
