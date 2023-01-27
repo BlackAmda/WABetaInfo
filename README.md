@@ -118,6 +118,12 @@ Output:
 }
 ```
 
+## Change log
+### v1.1.0 [27/01/2023]
+- Packages update - Axios@0.27.2 > Axios@1.2.5
+- Fix: Test node file.
+- Fix: Split error when scraping image in latest post.
+
 ## License
 This project is protected by the `GNU General Public License v3.0.`
 

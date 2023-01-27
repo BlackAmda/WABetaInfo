@@ -1,4 +1,4 @@
-const wabetainfo = require('wabetainfo')
+const wabetainfo = require('./wabetainfo')
 
 wabetainfo.firstpageposts().then(console.log);
 
