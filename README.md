@@ -1,4 +1,6 @@
-# **WABetaInfo** - A Web Scrape NPM package of wabetainfo.com (unofficial)
+# NOTICE‼️ - VISIT **[wabetainfo new repo](https://github.com/SL-CODE-LORDS/WABetaInfo)** or **[new NPM library](https://www.npmjs.com/package/@sl-code-lords/wabetainfo)** TO GET THE LATEST VERSION OF THE SCRAPE WITH NEW FEATURES.
+
+## **WABetaInfo** - A Web Scrape NPM package of wabetainfo.com (unofficial)
 
 This is an unofficial scrape of wabetainfo.com and all post credit goes to **[@wabetainfo](https://wabetainfo.com/)**. This project is based on Javascript.
 
